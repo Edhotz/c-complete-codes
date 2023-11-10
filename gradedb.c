@@ -68,7 +68,7 @@ void main(void)
         disp_grades();
         break;
       case 'S':
-        exit(0);
+        exit(0); 
     }
   }
 }
