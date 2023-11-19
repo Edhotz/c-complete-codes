@@ -37,7 +37,7 @@ void update(struct my_time *t)
     if(t -> minutes == 60) {
         t -> minutes = 0;
         t -> hours++;
-    }
+    } 
 
     if(t-> hours == 24) {
         t -> hours = 0;
