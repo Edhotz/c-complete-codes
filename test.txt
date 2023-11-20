@@ -1,0 +1,4 @@
+Escreva uma string vindo da stream para um texto do fputs
+
+
+
