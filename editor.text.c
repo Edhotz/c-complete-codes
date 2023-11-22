@@ -5,9 +5,7 @@
 
 char text[MAX][LEN];
 
-
 /* SIMPLE TEXT EDITOR */
-
 
 void main()
 {
